@@ -27,7 +27,7 @@ A simple terminal tool that lets you log into Scratch, view cloud variables, and
 
 ## Install
 
-```bash
+```
 pip install scratchattach
 ```
 
