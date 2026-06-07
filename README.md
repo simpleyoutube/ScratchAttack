@@ -91,3 +91,4 @@ Your username and password are stored in plain text in `login.txt`.
 
 Do whatever you want with it. Just don’t expect it to be perfect.
 ```
+DO NOT BLAME IT ON ME FOR WHAT YOU DO
