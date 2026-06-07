@@ -20,6 +20,7 @@ Install the only dependency:
 
 ```bash
 pip install scratchattach
+```bash
 How to use it
 
 Run the script:
